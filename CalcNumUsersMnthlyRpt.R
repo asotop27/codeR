@@ -1,5 +1,5 @@
 #Establezco mi directorio de trabajo
-setwd("C:/Users/alejandro.soto/Desktop/RStudio")
+setwd("C:/Mi/Working/Directory/RStudio")
 #Cargo librerias para leer archivos de excel y manipular datos
 library(readxl)
 library(dplyr)
